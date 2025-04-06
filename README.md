@@ -43,6 +43,7 @@ Each luminaire node is built on a Raspberry Pi Pico and includes:
 ## 🧑‍🎓 Authors
 
 **José Pedro da Cunha Rodrigues**
+
 Email: [jpcr400@gmail.com](mailto:jpcr400@gmail.com)
 
 **Miguel Rodrigues Ferreira**
