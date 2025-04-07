@@ -34,9 +34,9 @@ Each luminaire node is built on a Raspberry Pi Pico and includes:
 ## 📦 Repository Contents
 
 ```
-├── Node_0/                  # Microcontroller C++ code
-├── Node_1/                 # Diagrams, calibration graphs, performance plots
-├── README.md             # Project overview (this file)
+├── Node_0/               # Microcontroller Node 0 C++ code
+├── Node_1/               # Microcontroller Node 1 C++ code
+├── README.md             # Project overview 
 └── report.pdf            # Full technical report (Stage 1)
 ```
 
