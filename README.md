@@ -52,7 +52,7 @@ Email: [miguelferreira37954@gmail.com](miguelferreira37954@gmail.com)
 
 **Jaime Carriço Almeida de Sousa Alvarez**
 
-[jcas.alvarez2003@gmail.com](jcas.alvarez2003@gmail.com)
+Email: [jcas.alvarez2003@gmail.com](jcas.alvarez2003@gmail.com)
 
 ## 🏫 Course
 
