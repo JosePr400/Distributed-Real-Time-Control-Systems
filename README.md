@@ -34,25 +34,17 @@ Each luminaire node is built on a Raspberry Pi Pico and includes:
 ## 📦 Repository Contents
 
 ```
-├── Node_0/               # Microcontroller Node 0 C++ code
-├── Node_1/               # Microcontroller Node 1 C++ code
-├── README.md             # Project overview 
+├── src/                  # Microcontroller C++ code
+├── docs/                 # Diagrams, calibration graphs, performance plots
+├── hardware/             # Circuit schematics for LED and sensor
+├── README.md             # Project overview (this file)
 └── report.pdf            # Full technical report (Stage 1)
 ```
 
-## 🧑‍🎓 Authors
+## 🧑‍🎓 Author
 
-**José Pedro da Cunha Rodrigues**
-
+**José Pedro da Cunha Rodrigues**  
 Email: [jpcr400@gmail.com](mailto:jpcr400@gmail.com)
-
-**Miguel Rodrigues Ferreira**
-
-Email: [miguelferreira37954@gmail.com](miguelferreira37954@gmail.com)
-
-**Jaime Carriço Almeida de Sousa Alvarez**
-
-Email: [jcas.alvarez2003@gmail.com](jcas.alvarez2003@gmail.com)
 
 ## 🏫 Course
 
